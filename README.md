@@ -42,6 +42,22 @@ Despite generating $741,999.80 in sales, Furniture produced only $18,451.27 in p
 
 These findings suggest that discounting may be contributing to profitability challenges. Further analysis is needed to evaluate other contributing factors.
 
+**5. Furniture subcategories show significant differences in profit margins.**
+
+Profit margin analysis revealed substantial differences across Furniture subcategories:
+
+| Subcategory | Profit Margin |
+|---|---:|
+| Furnishings | 14.24% |
+| Chairs | 8.10% |
+| Bookcases | -3.02% |
+| Tables | -8.56% |
+
+Furnishings achieved the highest profit margin, while Chairs generated the highest total profit. Tables and Bookcases showed negative profit margins, indicating profitability challenges.
+
+**Business Recommendation:**
+
+Review discount strategies for Tables and Bookcases. Previous analysis showed that loss-making table sales had a higher average discount (36.53%) compared with profitable table sales (7.93%). Further analysis is needed to determine whether adjusting discount levels could improve overall profitability without significantly reducing sales volume.
 ## Preliminary Recommendations
 
 - Review discounting practices for Tables.
