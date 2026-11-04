@@ -106,4 +106,4 @@ This project includes two interactive dashboards:
 
 **View both dashboards on Tableau Public:**
 
-[View Interactive Dashboards]((https://public.tableau.com/app/profile/arturo.encarnacion/viz/super_store_sales_and_profit/SuperstoreGeographicProfitabilityAnalysis))
+[View Interactive Dashboards](https://public.tableau.com/app/profile/arturo.encarnacion/viz/super_store_sales_and_profit/SuperstoreGeographicProfitabilityAnalysis)
