@@ -11,7 +11,7 @@ The goal is to provide data-driven insights that can support better business dec
 - Google BigQuery
 - SQL
 - GitHub
-- Tableau (dashboard planned)
+- Tableau (interactive dashboards)
 
 ## Business Questions
 
@@ -64,10 +64,46 @@ Review discount strategies for Tables and Bookcases. Previous analysis showed th
 - Investigate product-level profitability in Tables and Bookcases.
 - Evaluate opportunities to improve Furniture's overall profit margin.
 
+  **6. Geographic Profitability Analysis.**
+
+Regional profitability analysis revealed significant differences across the United States.
+
+| Region | Total Profit |
+|---|---:|
+| West | $108,418 |
+| East | $91,523 |
+| South | $46,749 |
+| Central | $39,706 |
+
+West and East together account for approximately 70% of total profit, while Central has the lowest regional profit.
+
+The geographic dashboard also highlights states with negative profitability, including Texas.
+
+**Business Recommendation:** Investigate loss-making states and identify potential drivers, including discounting practices and product mix. Further analysis is needed before recommending specific changes.
+
 ## SQL Analysis
 
 The SQL queries used in this project are available in the `sql/01_sales_analysis.sql` file.
 
 ## Project Status
 
-In progress. Additional analysis and an interactive Tableau dashboard will be added.
+**Completed — November 2026**
+
+- SQL analysis completed using Google BigQuery.
+- Sales and profitability findings documented.
+- Two interactive Tableau dashboards completed:
+  - Sales & Profitability Analysis
+  - Geographic Profitability Analysis
+- Interactive filters implemented and tested.
+- Business recommendations developed based on the analysis.
+  
+  ## Interactive Tableau Dashboards
+
+This project includes two interactive dashboards:
+
+- **Sales & Profitability Analysis:** Product subcategory performance and profit margins.
+- **Geographic Profitability Analysis:** Profit by state and regional profitability comparisons.
+
+**View both dashboards on Tableau Public:**
+
+[View Interactive Dashboards](https://public.tableau.com/app/profile/arturo.encarnacion/viz/super_store_sales_and_profit/SuperstoreGeographicProfitabilityAnalysis)
